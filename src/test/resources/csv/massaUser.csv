@@ -1,0 +1,10 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1372065,poms,poms,poms,pathyh.sb@gmail.com,1234,996543560,0
+1372066,johnsmith,John,Smith,johnsmith@gmail.com,abcd,987654321,1
+1372067,janedoe,Jane,Doe,janedoe@yahoo.com,efgh,123456789,1
+1372068,bobross,Bob,Ross,bobross@hotmail.com,ijkl,555555555,0
+1372069,sarahlee,Sarah,Lee,sarahlee@gmail.com,mnop,111111111,1
+1372070,davidkim,David,Kim,davidkim@yahoo.com,qrst,222222222,0
+1372071,alexlee,Alex,Lee,alexlee@hotmail.com,uvwx,333333333,1
+1372072,emilynguyen,Emily,Nguyen,emilynguyen@gmail.com,yzab,444444444,0
+1372073,stevebrown,Steve,Brown,stevebrown@yahoo.com,cdef,666666666,1

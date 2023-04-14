@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/dividirPorZero.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/testesDeAPi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/testesDeUnidade.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/testesWeb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chrome/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iterasys/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iterasys/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/TesteStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/TesteUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/unitTest/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/ComprarPassagemSIDE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/ComprarPassagemWD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TesteEveclassSIDE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaSomar.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaStore.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaUser.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/pet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/storeorder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/user1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/user2.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O1y2ScHpFa4imrW7D7oJ8pzzLq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Diario/IdeaProjects/Pascoa137/drivers/chrome&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diario\IdeaProjects\Pascoa137\drivers\chrome" />
+      <recent name="C:\Users\Diario\IdeaProjects\Pascoa137\src\test\resources\json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TesteEveclassSIDE">
+    <configuration name="ComprarPassagemSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest" />
+      <option name="MAIN_CLASS_NAME" value="webTest.ComprarPassagemSIDE" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComprarPassagemWD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest" />
+      <option name="MAIN_CLASS_NAME" value="webTest.ComprarPassagemWD" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest" />
+      <option name="MAIN_CLASS_NAME" value="webTest.TestaEveclassSIDE" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaEveclassSIDE.testaEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest" />
+      <option name="MAIN_CLASS_NAME" value="webTest.TestaEveclassSIDE" />
+      <option name="METHOD_NAME" value="testaEveclassSIDE" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest" />
+      <option name="MAIN_CLASS_NAME" value="webTest.TesteEveclassSIDE" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TesteEveclassSIDE" />
+        <item itemvalue="JUnit.ComprarPassagemSIDE" />
+        <item itemvalue="JUnit.TestaEveclassSIDE.testaEveclassSIDE" />
+        <item itemvalue="JUnit.TestaEveclassSIDE" />
+        <item itemvalue="JUnit.ComprarPassagemWD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="" />
+      <created>1680742175604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680742175604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/unitTest/TesteCalculadora.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/unitTest/TesteCalculadora.java</url>
+          <line>44</line>
+          <properties class="unitTest.TesteCalculadora" method="testeSomarDoisNumerosLendoLista">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/apiTest/TesteUser.java</url>
+          <line>160</line>
+          <properties class="apiTest.TesteUser" method="testarIncluirUserCSV">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

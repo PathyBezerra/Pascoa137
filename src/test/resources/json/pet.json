@@ -1,0 +1,18 @@
+{
+  "id": 460,
+  "category": {
+    "id": 45,
+    "name": "Poms"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+  ],
+  "tags": [
+    {
+      "id": 45,
+      "name": "Poms"
+    }
+  ],
+  "status": "available"
+}
