@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dividirPorZero.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/testesDeAPi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/testesDeUnidade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/testesWeb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chrome/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iterasys/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iterasys/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/TesteStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/TesteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/unitTest/TesteCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/ComprarPassagemSIDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/ComprarPassagemWD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TesteEveclassSIDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaSomar.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaStore.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/csv/massaUser.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/pet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/storeorder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/user1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/json/user2.json" afterDir="false" />
-    </list>
+    <list default="true" id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,10 +149,22 @@
       <option name="presentableId" value="Default" />
       <updated>1680742175604</updated>
     </task>
+    <task id="LOCAL-00001" summary="Versionando codigo de automatização">
+      <created>1681437591801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681437591801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versionando codigo de automatização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versionando codigo de automatização" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
