@@ -1,5 +1,5 @@
  // 0-  O Pacote
-package webTest;
+package webTest.Booking;
  // Bibliotecas
 
  import io.github.bonigarcia.wdm.WebDriverManager;

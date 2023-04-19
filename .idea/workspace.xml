@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="" />
+    <list default="true" id="3e5733ef-37b9-4b1f-8497-770f7fa53e7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiTest/TesteBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/Aluno/TestCursosAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/Aluno/TestSobreAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/LoginUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TelaDeCursosEveclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TestandoSobreEveclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webTest/TesteEveclassAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/booking.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/bookingAuth.Json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/patchBooking.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/updateBooking.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/webTest/TesteEveclassSIDE.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +48,8 @@
   <component name="ProjectId" id="2O1y2ScHpFa4imrW7D7oJ8pzzLq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -52,79 +69,83 @@
       <recent name="C:\Users\Diario\IdeaProjects\Pascoa137\drivers\chrome" />
       <recent name="C:\Users\Diario\IdeaProjects\Pascoa137\src\test\resources\json" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webTest.Aluno" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.TesteEveclassSIDE">
-    <configuration name="ComprarPassagemSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestSobreAluno">
+    <configuration name="TestCursosAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pascoa137" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="webTest.*" />
+          <option name="PATTERN" value="webTest.Aluno.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="webTest" />
-      <option name="MAIN_CLASS_NAME" value="webTest.ComprarPassagemSIDE" />
+      <option name="PACKAGE_NAME" value="webTest.Aluno" />
+      <option name="MAIN_CLASS_NAME" value="webTest.Aluno.TestCursosAluno" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComprarPassagemWD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLoginAluno.logarAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pascoa137" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="webTest.*" />
+          <option name="PATTERN" value="webTest.Aluno.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="webTest" />
-      <option name="MAIN_CLASS_NAME" value="webTest.ComprarPassagemWD" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestaEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pascoa137" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webTest" />
-      <option name="MAIN_CLASS_NAME" value="webTest.TestaEveclassSIDE" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestaEveclassSIDE.testaEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pascoa137" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webTest" />
-      <option name="MAIN_CLASS_NAME" value="webTest.TestaEveclassSIDE" />
-      <option name="METHOD_NAME" value="testaEveclassSIDE" />
+      <option name="PACKAGE_NAME" value="webTest.Aluno" />
+      <option name="MAIN_CLASS_NAME" value="webTest.Aluno.TestLoginAluno" />
+      <option name="METHOD_NAME" value="logarAluno" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEveclassSIDE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSobreAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pascoa137" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="webTest.*" />
+          <option name="PATTERN" value="webTest.Aluno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest.Aluno" />
+      <option name="MAIN_CLASS_NAME" value="webTest.Aluno.TestSobreAluno" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSobreAluno.testSobre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.Aluno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest.Aluno" />
+      <option name="MAIN_CLASS_NAME" value="webTest.Aluno.TestSobreAluno" />
+      <option name="METHOD_NAME" value="testSobre" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEveclassAluno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pascoa137" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest.Booking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webTest" />
-      <option name="MAIN_CLASS_NAME" value="webTest.TesteEveclassSIDE" />
+      <option name="MAIN_CLASS_NAME" value="webTest.TesteEveclassAluno" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TesteEveclassSIDE" />
-        <item itemvalue="JUnit.ComprarPassagemSIDE" />
-        <item itemvalue="JUnit.TestaEveclassSIDE.testaEveclassSIDE" />
-        <item itemvalue="JUnit.TestaEveclassSIDE" />
-        <item itemvalue="JUnit.ComprarPassagemWD" />
+        <item itemvalue="JUnit.TestSobreAluno" />
+        <item itemvalue="JUnit.TestCursosAluno" />
+        <item itemvalue="JUnit.TestSobreAluno.testSobre" />
+        <item itemvalue="JUnit.TestLoginAluno.logarAluno" />
+        <item itemvalue="JUnit.TesteEveclassAluno" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681437591801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Versionando codigo de automatização">
+      <created>1681437760434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681437760434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
