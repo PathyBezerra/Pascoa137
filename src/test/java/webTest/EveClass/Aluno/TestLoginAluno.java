@@ -19,9 +19,12 @@ public class TestLoginAluno  extends TestBase {
         WebElement inputEmail = driver.findElement(By.cssSelector("input[data-vv-as='Email'][type='Email']"));
         inputEmail.sendKeys("patriciabezerra1990+alunopatricia@gmail.com");
 
+        Thread.sleep(2000); // espera por 3 segundos
         // Seleciona o Input "password" e inseri os valores
         WebElement inputSenha = driver.findElement(By.cssSelector("input[type='password']"));
         inputSenha.sendKeys("Senha123");
+
+        Thread.sleep(2000); // espera por 3 segundos
 
         // Clica no botão entrar
         driver.findElement(By.cssSelector("button.button-default")).click();
